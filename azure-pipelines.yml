@@ -2,10 +2,10 @@
 # https://docs.microsoft.com/azure/devops/pipelines/ecosystems/javascript?view=azure-devops
 strategy:
   matrix:
-    linux:
-      imageName: 'ubuntu-latest'
-    mac:
-      imageName: 'macOS-latest'
+#    linux:
+#      imageName: 'ubuntu-latest'
+#    mac:
+#      imageName: 'macOS-latest'
     windows:
       imageName: 'windows-latest'
 
